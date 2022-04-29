@@ -1,10 +1,10 @@
 <template>
-  
+  Nav Bar
 </template>
 
 <script>
 export default {
-    name: 'Nav'
+    name: 'NavView'
 }
 </script>
 
